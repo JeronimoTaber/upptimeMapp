@@ -18,6 +18,7 @@ sites:
     expectedStatusCodes:
      - 200
      - 401
+     - 404
 
 assignees: # Users to assign downtime issues (optional)
   - pabloaguiar
