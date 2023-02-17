@@ -14,7 +14,7 @@ sites:
   - name: Mapp Aventura
     url: https://aventura.mapp.com.ar/
   - name: La Mercantil API
-    url: https://www.api.mercantilandina.com.ar/
+    url: https://api.mercantilandina.com.ar/
     expectedStatusCodes:
      - 200
      - 401
