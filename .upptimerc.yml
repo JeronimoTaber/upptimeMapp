@@ -14,13 +14,13 @@ sites:
   #- name: Mapp Aventura
   #  url: https://aventura.mapp.com.ar/
   - name: Mapp
-    url: https://www.mapp.com.ar/
+    url: https://www.mapp.com.ar/upptime.html
   - name: La Mercantil API
     url: https://api.mercantilandina.com.ar/
     expectedStatusCodes:
      - 200
      - 401
-     - 404
+     #- 404
   - name: COEX
     url: https://www.coex.com.ar/upptime.html
 
