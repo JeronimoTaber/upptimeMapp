@@ -21,6 +21,8 @@ sites:
      - 200
      - 401
      - 404
+  - name: COEX
+    url: https://www.coex.com.ar/upptime.html
 
 assignees: # Users to assign downtime issues (optional)
   - pabloaguiar
