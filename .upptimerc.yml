@@ -13,8 +13,11 @@ sites:
     url: https://consorcios.mapp.com.ar/
   - name: Mapp Aventura
     url: https://aventura.mapp.com.ar/
-  - name: La Mercantil
-    url: https://www.mercantilandina.com.ar/
+  - name: La Mercantil API
+    url: https://www.api.mercantilandina.com.ar/
+    expectedStatusCodes:
+     - 200
+     - 401
 
 assignees: # Users to assign downtime issues (optional)
   - pabloaguiar
