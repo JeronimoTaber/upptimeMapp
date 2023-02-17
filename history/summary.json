@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.mercantilandina.com.ar.ico",
     "slug": "la-mercantil-api",
     "status": "up",
-    "uptime": "87.10%",
-    "uptimeDay": "87.10%",
-    "uptimeWeek": "87.10%",
-    "uptimeMonth": "87.10%",
-    "uptimeYear": "87.10%",
+    "uptime": "87.76%",
+    "uptimeDay": "87.76%",
+    "uptimeWeek": "87.76%",
+    "uptimeMonth": "87.76%",
+    "uptimeYear": "87.76%",
     "time": 201,
     "timeDay": 201,
     "timeWeek": 201,
     "timeMonth": 201,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2023-02-17": 59
+      "2023-02-17": 56
     }
   },
   {
