@@ -20,7 +20,7 @@ sites:
     expectedStatusCodes:
      - 200
      - 401
-     #- 404
+     - 404
   - name: COEX
     url: https://www.coex.com.ar/upptime.html
 
