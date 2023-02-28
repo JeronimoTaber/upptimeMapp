@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 962,
-    "timeDay": 672,
-    "timeWeek": 873,
-    "timeMonth": 962,
-    "timeYear": 962,
+    "time": 960,
+    "timeDay": 930,
+    "timeWeek": 909,
+    "timeMonth": 960,
+    "timeYear": 960,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.mercantilandina.com.ar.ico",
     "slug": "la-mercantil-api",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
-    "time": 262,
-    "timeDay": 29,
-    "timeWeek": 307,
-    "timeMonth": 262,
-    "timeYear": 262,
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
+    "time": 264,
+    "timeDay": 298,
+    "timeWeek": 338,
+    "timeMonth": 264,
+    "timeYear": 264,
     "dailyMinutesDown": {
       "2023-02-17": 56
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 848,
-    "timeDay": 607,
-    "timeWeek": 789,
-    "timeMonth": 848,
-    "timeYear": 848,
+    "time": 855,
+    "timeDay": 940,
+    "timeWeek": 793,
+    "timeMonth": 855,
+    "timeYear": 855,
     "dailyMinutesDown": {}
   }
 ]
