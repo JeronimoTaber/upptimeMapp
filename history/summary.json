@@ -4,7 +4,7 @@
     "url": "https://www.mapp.com.ar/upptime.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.mapp.com.ar.ico",
     "slug": "mapp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 883,
     "timeMonth": 998,
     "timeYear": 1001,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-21": 0
+    }
   },
   {
     "name": "La Mercantil API",
