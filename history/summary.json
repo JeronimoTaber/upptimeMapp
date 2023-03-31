@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 980,
-    "timeDay": 942,
-    "timeWeek": 848,
-    "timeMonth": 989,
-    "timeYear": 980,
+    "time": 975,
+    "timeDay": 711,
+    "timeWeek": 826,
+    "timeMonth": 981,
+    "timeYear": 975,
     "dailyMinutesDown": {
       "2023-03-21": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.84%",
-    "time": 244,
-    "timeDay": 172,
-    "timeWeek": 239,
-    "timeMonth": 232,
-    "timeYear": 244,
+    "time": 242,
+    "timeDay": 171,
+    "timeWeek": 229,
+    "timeMonth": 230,
+    "timeYear": 242,
     "dailyMinutesDown": {
       "2023-03-25": 38,
       "2023-02-17": 56
@@ -46,16 +46,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.coex.com.ar.ico",
     "slug": "coex",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.93%",
-    "time": 956,
-    "timeDay": 655,
-    "timeWeek": 1249,
-    "timeMonth": 993,
-    "timeYear": 956,
+    "uptimeYear": "99.94%",
+    "time": 952,
+    "timeDay": 747,
+    "timeWeek": 1257,
+    "timeMonth": 986,
+    "timeYear": 952,
     "dailyMinutesDown": {
       "2023-03-19": 39
     }
