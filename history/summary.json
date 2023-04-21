@@ -8,12 +8,12 @@
     "uptime": "99.90%",
     "uptimeDay": "95.12%",
     "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.80%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.90%",
     "time": 998,
     "timeDay": 807,
     "timeWeek": 1380,
-    "timeMonth": 994,
+    "timeMonth": 978,
     "timeYear": 998,
     "dailyMinutesDown": {
       "2023-04-20": 70,
@@ -46,7 +46,7 @@
     "url": "https://www.coex.com.ar/upptime.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.coex.com.ar.ico",
     "slug": "coex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -58,6 +58,7 @@
     "timeMonth": 918,
     "timeYear": 909,
     "dailyMinutesDown": {
+      "2023-04-21": 0,
       "2023-03-19": 39
     }
   }
