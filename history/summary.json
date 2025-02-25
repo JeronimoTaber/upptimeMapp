@@ -6,17 +6,15 @@
     "slug": "mapp",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 507,
-    "timeDay": 993,
-    "timeWeek": 729,
-    "timeMonth": 684,
+    "timeDay": 657,
+    "timeWeek": 712,
+    "timeMonth": 679,
     "timeYear": 528,
-    "dailyMinutesDown": {
-      "2025-02-24": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
