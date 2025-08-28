@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mapp.com.ar.ico",
     "slug": "mapp",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 582,
-    "timeDay": 977,
-    "timeWeek": 786,
+    "time": 581,
+    "timeDay": 442,
+    "timeWeek": 710,
     "timeMonth": 728,
-    "timeYear": 629,
+    "timeYear": 628,
     "dailyMinutesDown": {}
   }
 ]
