@@ -4,17 +4,19 @@
     "url": "https://www.mapp.com.ar/upptime.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.mapp.com.ar.ico",
     "slug": "mapp",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 599,
-    "timeDay": 490,
-    "timeWeek": 532,
-    "timeMonth": 594,
-    "timeYear": 630,
-    "dailyMinutesDown": {}
+    "time": 600,
+    "timeDay": 731,
+    "timeWeek": 587,
+    "timeMonth": 606,
+    "timeYear": 631,
+    "dailyMinutesDown": {
+      "2025-10-05": 13
+    }
   }
 ]
